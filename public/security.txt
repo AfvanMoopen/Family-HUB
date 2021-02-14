@@ -1,0 +1,4 @@
+# Our security address
+
+Contact: security@testhq.com
+Disclosure: Full
